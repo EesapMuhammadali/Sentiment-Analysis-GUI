@@ -1,7 +1,7 @@
 # Sentiment Analysis GUI
 
 ## Project Overview
-This project is a GUI-based Sentiment Analysis tool that classifies text input into positive, negative, or neutral sentiment. It leverages trained machine learning models for logistic regression and TF-IDF vectorization, packaged with a desktop graphical user interface.
+This project is a GUI-based Sentiment Analysis tool that classifies text input into positive or negative. It leverages trained machine learning models for logistic regression and TF-IDF vectorization, packaged with a desktop graphical user interface.
 
 ## Features
 - User-friendly GUI for easy input of text data.
